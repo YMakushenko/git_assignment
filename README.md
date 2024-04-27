@@ -15,3 +15,7 @@ d. To add someone to your repository, follow these steps:
 5.	Select the appropriate permission level.
 6.	Click Add [username] to invite the collaborator.
 
+e. Git is a distributed version control system used to track changes in source code during software development. GitHub is a platform built around Git, providing hosting for repositories, collaboration features like issue tracking and pull requests, and additional tools for project management.
+f. git diff is a command used to display the differences between two commits, between a commit and the working directory, or between two branches. It shows which lines have been added, modified, or deleted between the compared versions.
+g. The main branch is the primary branch in a Git repository. It often serves as the default branch and is where the latest changes are integrated. In many repositories, the main branch is named main or master.
+h. No, it's generally not recommended to push changes directly to the main branch. Instead, it's best practice to create a new branch for each feature or bug fix, make and commit your changes to that branch, and then open a pull request to merge your changes into the main branch after they've been reviewed.
